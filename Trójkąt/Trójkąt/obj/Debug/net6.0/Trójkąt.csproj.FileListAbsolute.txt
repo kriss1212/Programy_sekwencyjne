@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Trójkąt\Trójkąt\bin\Debug\net6.0\Trójkąt.exe
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Trójkąt\Trójkąt\bin\Debug\net6.0\Trójkąt.deps.json
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Trójkąt\Trójkąt\bin\Debug\net6.0\Trójkąt.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Trójkąt\Trójkąt\bin\Debug\net6.0\Trójkąt.dll
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Trójkąt\Trójkąt\bin\Debug\net6.0\Trójkąt.pdb
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Trójkąt\Trójkąt\obj\Debug\net6.0\Trójkąt.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Trójkąt\Trójkąt\obj\Debug\net6.0\Trójkąt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Trójkąt\Trójkąt\obj\Debug\net6.0\Trójkąt.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Trójkąt\Trójkąt\obj\Debug\net6.0\Trójkąt.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Trójkąt\Trójkąt\obj\Debug\net6.0\Trójkąt.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Trójkąt\Trójkąt\obj\Debug\net6.0\Trójkąt.dll
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Trójkąt\Trójkąt\obj\Debug\net6.0\refint\Trójkąt.dll
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Trójkąt\Trójkąt\obj\Debug\net6.0\Trójkąt.pdb
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Trójkąt\Trójkąt\obj\Debug\net6.0\Trójkąt.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Trójkąt\Trójkąt\obj\Debug\net6.0\ref\Trójkąt.dll

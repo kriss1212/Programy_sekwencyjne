@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczba n\Liczba n\bin\Debug\net6.0\Liczba n.exe
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczba n\Liczba n\bin\Debug\net6.0\Liczba n.deps.json
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczba n\Liczba n\bin\Debug\net6.0\Liczba n.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczba n\Liczba n\bin\Debug\net6.0\Liczba n.dll
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczba n\Liczba n\bin\Debug\net6.0\Liczba n.pdb
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczba n\Liczba n\obj\Debug\net6.0\Liczba n.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczba n\Liczba n\obj\Debug\net6.0\Liczba n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczba n\Liczba n\obj\Debug\net6.0\Liczba n.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczba n\Liczba n\obj\Debug\net6.0\Liczba n.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczba n\Liczba n\obj\Debug\net6.0\Liczba n.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczba n\Liczba n\obj\Debug\net6.0\Liczba n.dll
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczba n\Liczba n\obj\Debug\net6.0\refint\Liczba n.dll
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczba n\Liczba n\obj\Debug\net6.0\Liczba n.pdb
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczba n\Liczba n\obj\Debug\net6.0\Liczba n.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczba n\Liczba n\obj\Debug\net6.0\ref\Liczba n.dll

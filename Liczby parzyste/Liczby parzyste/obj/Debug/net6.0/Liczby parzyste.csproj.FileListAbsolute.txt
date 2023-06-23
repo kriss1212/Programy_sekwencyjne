@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczby parzyste\Liczby parzyste\obj\Debug\net6.0\Liczby parzyste.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczby parzyste\Liczby parzyste\obj\Debug\net6.0\Liczby parzyste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczby parzyste\Liczby parzyste\obj\Debug\net6.0\Liczby parzyste.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczby parzyste\Liczby parzyste\obj\Debug\net6.0\Liczby parzyste.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczby parzyste\Liczby parzyste\obj\Debug\net6.0\Liczby parzyste.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczby parzyste\Liczby parzyste\bin\Debug\net6.0\Liczby parzyste.exe
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczby parzyste\Liczby parzyste\bin\Debug\net6.0\Liczby parzyste.deps.json
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczby parzyste\Liczby parzyste\bin\Debug\net6.0\Liczby parzyste.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczby parzyste\Liczby parzyste\bin\Debug\net6.0\Liczby parzyste.dll
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczby parzyste\Liczby parzyste\bin\Debug\net6.0\Liczby parzyste.pdb
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczby parzyste\Liczby parzyste\obj\Debug\net6.0\Liczby parzyste.dll
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczby parzyste\Liczby parzyste\obj\Debug\net6.0\refint\Liczby parzyste.dll
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczby parzyste\Liczby parzyste\obj\Debug\net6.0\Liczby parzyste.pdb
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczby parzyste\Liczby parzyste\obj\Debug\net6.0\Liczby parzyste.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\Programy sekwencyjne\Liczby parzyste\Liczby parzyste\obj\Debug\net6.0\ref\Liczby parzyste.dll
